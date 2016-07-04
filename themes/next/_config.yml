@@ -60,8 +60,8 @@ menu_icons:
 
 # Schemes
 #scheme: Muse
-#scheme: Mist
-scheme: Pisces
+scheme: Mist
+#scheme: Pisces
 
 
 # ---------------------------------------------------------------
@@ -120,8 +120,12 @@ font:
 # Social Links
 # Key is the link label showing to end users.
 # Value is the target link (E.g. GitHub: https://github.com/iissnan)
-#social:
-  #LinkLabel: Link
+social:
+  微博: http://weibo.com/bfystc
+  GitHub: https://github.com/baifuyou
+  豆瓣: https://www.douban.com/people/scratbai
+  知乎: https://www.zhihu.com/people/scratbai
+
 
 
 # Social Links Icons
@@ -135,13 +139,13 @@ social_icons:
   # KeyMapsToSocalItemKey: NameOfTheIconFromFontAwesome
   GitHub: github
   Twitter: twitter
-  Weibo: weibo
+  微博: weibo
 
 
 # Sidebar Avatar
 # in theme directory(source/images): /images/avatar.jpg
 # in site  directory(source/uploads): /uploads/avatar.jpg
-#avatar:
+avatar: /avatar.png
 
 
 # Table Of Contents in the Sidebar
