@@ -23,6 +23,13 @@ root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 
+# Share
+#jiathis: true
+#add_this_id:
+
+# Share
+duoshuo_share: true
+
 # Directory
 source_dir: source
 public_dir: public
