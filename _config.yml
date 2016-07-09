@@ -84,3 +84,7 @@ deploy:
   type: git
   repo: git@github.com:baifuyou/baifuyou.github.io.git
   branch: master
+
+search:
+  path: search.xml
+  field: post
